@@ -3,15 +3,288 @@
   "name": "Zahi Onam Quiz",
   "questions": [
     {
-      "id": "q1787213434761941",
+      "id": "q1787222108391348",
       "type": "mcq",
-      "text": "According to Purana story who is Gandfather of Mahabali?",
+      "text": "Which Nakshatra (naal) is observed as 3rd Onam?",
       "options": [
-        "Prahladha",
-        "Virochana",
-        "Hiranya Kashbu"
+        "Uthradam",
+        "Avittam",
+        "Chathayam",
+        "Atham"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391625",
+      "type": "mcq",
+      "text": "On which day of the week does Thiruvonam fall in 2026 (August 26, 2026)?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1787222108391421",
+      "type": "mcq",
+      "text": "Complete the famous traditional line: \"Maveli nadu vaneedum kalam, manusarellarum...\"",
+      "options": [
+        "Onnu pole",
+        "Santhoshamai",
+        "Pookalamai",
+        "Sadya thinnu"
       ],
       "correct": 0
+    },
+    {
+      "id": "q1787222108391404",
+      "type": "mcq",
+      "text": "First Onam is celebrated on which Nakshatra (naal)?",
+      "options": [
+        "Atham",
+        "Uthradam",
+        "Avittam",
+        "Chathayam"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391420",
+      "type": "tf",
+      "text": "King Mahabali visits Kerala during Onam according to popular tradition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391472",
+      "type": "mcq",
+      "text": "Which avatar of Lord Vishnu is associated with the legend of King Mahabali?",
+      "options": [
+        "Matsya",
+        "Varaha",
+        "Narasimha",
+        "Vamana"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q1787222108391238",
+      "type": "tf",
+      "text": "The floral carpet designed in front of homes during Onam is known as Pookalam.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391627",
+      "type": "mcq",
+      "text": "How many days of traditional preparations starting from Atham lead up to Thiruvonam?",
+      "options": [
+        "5 days",
+        "8 days",
+        "10 days",
+        "15 days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1787222108391853",
+      "type": "tf",
+      "text": "Onasadya is a traditional grand vegetarian feast served on a banana leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391978",
+      "type": "mcq",
+      "text": "In which month of the Malayalam calendar is Onam celebrated?",
+      "options": [
+        "Karkidakam",
+        "Chingam",
+        "Kanni",
+        "Thulam"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391276",
+      "type": "mcq",
+      "text": "Which leaf is traditionally used to serve the Onasadya?",
+      "options": [
+        "Banyan leaf",
+        "Mango leaf",
+        "Banana leaf",
+        "Jackfruit leaf"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1787222108391754",
+      "type": "tf",
+      "text": "Vallam Kali refers to the traditional snake boat race held during the Onam season.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391547",
+      "type": "mcq",
+      "text": "What is the sweet dessert served at the end of an Onasadya called?",
+      "options": [
+        "Thoran",
+        "Olan",
+        "Kalan",
+        "Payasam"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q1787222108391954",
+      "type": "mcq",
+      "text": "What is the traditional dance performed by women in a circle during Onam?",
+      "options": [
+        "Kathakali",
+        "Thiruvathirakali",
+        "Theyyam",
+        "Ottamthullal"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391755",
+      "type": "tf",
+      "text": "Athachamayam is a grand procession that marks the beginning of the 10-day Onam festival.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q178722210839193",
+      "type": "mcq",
+      "text": "Which flower is considered highly traditional and essential for the first day of the Pookalam?",
+      "options": [
+        "Rose",
+        "Thumba",
+        "Lotus",
+        "Sunflower"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391202",
+      "type": "tf",
+      "text": "The final and most important day of the 10-day Onam celebration is called Uthradam.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391239",
+      "type": "mcq",
+      "text": "What are the earthen or clay mounds representing Mahabali and Vamana placed in the Pookalam called?",
+      "options": [
+        "Onathappan",
+        "Nilavilakku",
+        "Kasavu",
+        "Oonjal"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q178722210839115",
+      "type": "tf",
+      "text": "King Mahabali was known as a cruel and unjust ruler before he was sent to the netherworld.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391359",
+      "type": "tf",
+      "text": "Lord Vamana pushed King Mahabali down to the netherworld (Patala) by placing his foot on his head.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391742",
+      "type": "mcq",
+      "text": "What is the traditional swing hung from tree branches for children and adults to play on during Onam called?",
+      "options": [
+        "Oonjal",
+        "Vanchi",
+        "Pookalam",
+        "Vallam"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391861",
+      "type": "mcq",
+      "text": "Mahabali was Grandson of ...",
+      "options": [
+        "Virochana",
+        "Naradha",
+        "Hiranya Kashbu",
+        "Prahlada"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1787222108391260",
+      "type": "mcq",
+      "text": "Which popular boat race is famously held on Punnamada Lake in Alappuzha during the Onam season?",
+      "options": [
+        "Kumarakom Boat Race",
+        "Nehru Trophy Boat Race",
+        "President's Trophy Boat Race",
+        "Aranmula Uthrattathi"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1787222108391177",
+      "type": "mcq",
+      "text": "What is the traditional tiger dance performed during Onam called?",
+      "options": [
+        "Margamkali",
+        "Oppana",
+        "Pulikali",
+        "Duffmuttu"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1787222108391421",
+      "type": "mcq",
+      "text": "According to legend, how many steps of land did Lord Vamana ask from King Mahabali?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2
     }
   ],
   "brackets": [
