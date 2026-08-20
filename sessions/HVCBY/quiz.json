@@ -37,8 +37,8 @@
       "points": 20
     }
   ],
-  "phase": "lobby",
-  "currentQuestion": -1,
-  "questionStartedAt": null,
+  "phase": "question",
+  "currentQuestion": 0,
+  "questionStartedAt": 1787217819489,
   "createdAt": 1787217815979
 }
