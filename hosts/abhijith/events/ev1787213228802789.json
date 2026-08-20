@@ -1,7 +1,19 @@
 {
   "id": "ev1787213228802789",
   "name": "Zahi Onam Quiz",
-  "questions": [],
+  "questions": [
+    {
+      "id": "q1787213434761941",
+      "type": "mcq",
+      "text": "",
+      "options": [
+        "",
+        "",
+        ""
+      ],
+      "correct": 0
+    }
+  ],
   "brackets": [
     {
       "upTo": 5,
